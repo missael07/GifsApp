@@ -16,7 +16,6 @@ export class SidebarComponent {
   }
 
   buscar(termino: string): void {
-    console.log(termino);
     this.gs.buscarGifs(termino);
   }
 }
