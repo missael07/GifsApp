@@ -8,3 +8,18 @@ html,body{
     min-width: 180px;
     background: #6ab5b1;
 }
+
+.search-button{
+    display: inline-block;
+    background:#3F9E99;
+    border: 2px solid #3F9E99 ;
+    border-radius: 40px;
+    margin-top: 10px;
+    color: white;
+}
+
+.search-button:hover{
+    background: #6ab5b1;
+    border: 2px solid #6ab5b1 ;
+    color: white;
+}
